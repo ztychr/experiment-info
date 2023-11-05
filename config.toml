@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "usb-honeypot.compute.dtu.dk"
 title        = "Master Thesis Information Page"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
