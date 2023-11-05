@@ -1,0 +1,58 @@
+baseurl      = "localhost"
+title        = "Master Thesis Information Page"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[author]
+  name = "Johannes Nordskov Pedersen"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+#  homeSubtitle = "Master Thesis Information Page"
+
+  disableReadOtherPosts = true
+  enableSharingButtons = false
+  enableGlobalLanguageMenu = true
+  enableThemeToggle = true
+
+[languages]
+  [languages.en]
+    title = "Master Thesis Information Page"
+    weight = 1
+
+    [languages.en.params.logo]
+      logoText = "Master Thesis Information Page"
+      logoHomeLink = "/"
+
+  [languages.da]
+    title = "Informationsside om Speciale"
+    weight = 1
+    
+    [languages.da.params.logo]
+      logoText = "Informationsside om Speciale"
+      logoHomeLink = "/"
+
+  
+  [params.footer]
+#    trademark = 2023
+    rss = false
+    copyright = false
+    author = false
+
+    topText = []
+    bottomText = [
+      " <a href=\"https://www.compute.dtu.dk\">DTU Compute</a>",
+      "Department of Applied Mathematics and Computer Science"
+    ]
+
+  [[menu.main]]
+  #  identifier = "/page/contact"
+  #  name       = "Contact"
+  #  url        = "/page/contact"
+
