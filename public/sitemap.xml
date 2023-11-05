@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>thesis.nordskov.net/da/sitemap.xml</loc>
+    <loc>localhost/da/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>thesis.nordskov.net/en/sitemap.xml</loc>
+    <loc>localhost/en/sitemap.xml</loc>
     
   </sitemap>
   

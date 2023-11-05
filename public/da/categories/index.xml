@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Informationsside om Speciale</title>
-    <link>thesis.nordskov.net/da/categories/</link>
+    <link>localhost/da/categories/</link>
     <description>Recent content in Categories on Informationsside om Speciale</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="thesis.nordskov.net/da/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="localhost/da/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>thesis.nordskov.net/</loc>
+    <loc>localhost/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="thesis.nordskov.net/da/"
+                href="localhost/da/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="thesis.nordskov.net/"
+                href="localhost/"
                 />
   </url>
   
   <url>
-    <loc>thesis.nordskov.net/categories/</loc>
+    <loc>localhost/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="thesis.nordskov.net/da/categories/"
+                href="localhost/da/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="thesis.nordskov.net/categories/"
+                href="localhost/categories/"
                 />
   </url>
   
   <url>
-    <loc>thesis.nordskov.net/tags/</loc>
+    <loc>localhost/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="thesis.nordskov.net/da/tags/"
+                href="localhost/da/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="thesis.nordskov.net/tags/"
+                href="localhost/tags/"
                 />
   </url>
   
