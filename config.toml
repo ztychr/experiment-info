@@ -1,4 +1,4 @@
-baseurl      = "usb-honeypot.compute.dtu.dk"
+baseurl      = "thesis.nordskov.net" #"usb-honeypot.compute.dtu.dk"
 title        = "Master Thesis Information Page"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
