@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>thesis.nordskov.net/da/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="thesis.nordskov.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="thesis.nordskov.net/da/"
+                />
+  </url>
+  
+  <url>
+    <loc>thesis.nordskov.net/da/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="thesis.nordskov.net/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="thesis.nordskov.net/da/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>thesis.nordskov.net/da/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="thesis.nordskov.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="thesis.nordskov.net/da/tags/"
+                />
+  </url>
+  
+</urlset>
