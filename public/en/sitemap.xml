@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/</loc>
+    <loc>/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="localhost/da/"
+                href="/da/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>localhost/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="localhost/da/categories/"
+                href="/da/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="localhost/da/tags/"
+                href="/da/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="localhost/tags/"
+                href="/tags/"
                 />
   </url>
   

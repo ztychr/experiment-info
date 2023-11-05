@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Informationsside om Speciale</title>
-    <link>localhost/da/</link>
+    <link>/da/</link>
     <description>Recent content on Informationsside om Speciale</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="localhost/da/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/da/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
