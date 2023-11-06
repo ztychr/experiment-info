@@ -1,14 +1,14 @@
-### Hvad er den her side?
-Jeg hedder Johannes og jeg er i gang med at skrive mit speciale på DTU om cybersecurity awareness i det offentlige rum. I den forbindelse laver jeg en række eksperimenter. Eksperimenterne indebærer at jeg placerer USB stik og sedler med QR koder på offentlige såvel som private lokationer, for at indsamle data om, hvorvidt USB stikkene indsættes i computere og om domænerne som QR koderne linker til besøges.
+### What is this page?
+My name is Johannes and I am currently writing my thesis on DTU (Technical University of Denmark). I am writing about cyber security awareness in the public domain. In combination with my thesis, I am conducting a series of experiments. The experiments consist of placing flash drives and QR-codes in public- as well as private common areas, to collect data on, whether the flash drives are collected and plugged into PC's as well as if the the domains the QR-codes are linking to, are visited.
 
-### Er det farligt?
-Eksperimenterne jeg udfører er på ingen måde farlige og eksekveringen af disse er aftalt med ledelsen på din arbejdsplads. USB stikkene indeholder simple filer, der underretter mig når de åbnes. Ligeledes linker QR koderne til en harmløs informationsside som denne. USB stikkene og QR koderne indeholder **ikke** ondsindet kode.
+### Is it dangerous?
+The experiments I am conducting are in no way dagerous and the execution hereof is coordinated with the administration of your workplace. The flash drives contain simple files, that notify me if they are opened. Likewise, the QR-codes link to a harmless inforamtion page as this one. The flash drives and QR-codes does **not** contain any malicious code.
 
-### Hvad med mine data?
-Jeg indsamler **ikke** persondata i forbindelse med eksperimentet. Jeg indsamler udelukkende et minimum af informationer, for at kunne bygge et statistisk grundlag. Dataene er kun tilgængelige for mine vejledere og jeg. Dataene slettes med det samme efter mit speciale er afleveret. At du har åbnet en fil på USB stikket eller besøgt en QR kode fortæller mig **ikke** hvem du er, men kun at filen på USB stikket er åbnet eller QR koden er blevet scannet.
+### What about my data?
+I am not collecting any personal data throughout these experiments. I am strictly collecting a minimum of information, in order to build a statistical foundation. The data are only available to me and my supervisors and are deleted after the thesis has been handed in. Opening a file on the flash drive or visiting a link from a QR-code does not inform me of who you are, but merely that the file has been opened or the QR-code link visited.
 
-### Hvad skal jeg gøre nu?
-Du skal ikke foretage dig yderligere. Jeg håber at du vil holde din viden om dette eksperiment for dig selv lidt endnu (2 uger). Det kan nemlig have kedelige konsekvenser for dataene jeg indsamler, hvis det eksperimenterne afsløres før tid. Tak for din forståelse. Hvis du er i besiddelse af et fundet USB stik må du gerne aflevere det til IT-afdelingen. 
+### What should I do now?
+You shall not do anything further. I hope that you will keep your knowledge about this experiment to yourself a little longer (2 weeks). It can have consequenses for the research data if the experiments are revaeled prematurely. Thank you for your understanding. If you are in possession of a collected flash drive, please return it to the IT-department.
 
 ### Kontakt
-Hvis du har spørgsmål om eksperimenterne er du velkommen til at kontakte mig på s213578@dtu.dk
+If you have questions regarding the experiments, you are welcome to contact me at s213578@dtu.dk
