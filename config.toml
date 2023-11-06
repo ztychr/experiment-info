@@ -1,5 +1,5 @@
 #baseurl      = "localhost" #"thesis.nordskov.net" #"usb-honeypot.compute.dtu.dk"
-title        = "Master Thesis Information Page"
+title        = "Thesis Information Page"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -23,11 +23,11 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Master Thesis Information Page"
+    title = "Thesis Information Page"
     weight = 1
 
     [languages.en.params.logo]
-      logoText = "Master Thesis Information Page"
+      logoText = "Thesis Information Page"
       logoHomeLink = "/"
 
   [languages.da]
@@ -45,11 +45,15 @@ paginate     = 10
     copyright = false
     author = false
 
-    topText = []
-    bottomText = [
-      " <a href=\"https://www.compute.dtu.dk\">DTU Compute</a>",
-      "Department of Applied Mathematics and Computer Science"
+    topText = [
+      "<a href=\"https://www.compute.dtu.dk\">DTU Compute</a>",
+      "Bygning 324",
+      "2800 Kgs. Lyngby",
     ]
+    
+    bottomText = [
+      "Department of Applied Mathematics and Computer Science"
+  ]
 
   [[menu.main]]
   #  identifier = "/page/contact"
