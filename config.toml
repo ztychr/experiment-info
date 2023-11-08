@@ -1,8 +1,8 @@
 #baseurl      = "localhost" #"thesis.nordskov.net" #"usb-honeypot.compute.dtu.dk"
-title        = "Thesis Page"
+title        = "Thesis Info"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
+paginate     = 1
 
 #[author]
 #  name = "Johannes Nordskov Pedersen"
@@ -13,17 +13,31 @@ paginate     = 10
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
 
-  # Subtitle for home
+# Subtitle for home
 #  homeSubtitle = "Master Thesis Information Page"
 
   disableReadOtherPosts = true
   enableSharingButtons = false
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
   enableThemeToggle = true
+
+  enableRobotsTXT = false
+  enableGitInfo   = false
+  enableEmoji     = false
+  enableMissingTranslationPlaceholders = false
+  disableRSS     = true
+  disableSitemap = true
+  disable404     = true
+  disableHugoGeneratorInject = false
+
+#  PygmentsCodeFences = true
+#  PygmentsStyle = "monokai"
 
 [languages]
 
   [languages.en]
+#    languageCode = 'en-US'
+#    languageName = 'English'
     title = "Thesis Info"
     weight = 1
 
@@ -32,13 +46,14 @@ paginate     = 10
       logoHomeLink = "/"
 
   [languages.da]
+ #   languageCode = 'da-DK'  
+ #   languageName = 'Danish'
     title = "Speciale Info"
     weight = 1
     
     [languages.da.params.logo]
       logoText = "Speciale Info"
       logoHomeLink = "/da/"
-
   
   [params.footer]
 #    trademark = 2023
@@ -56,7 +71,7 @@ paginate     = 10
       "Department of Applied Mathematics and Computer Science"
   ]
 
-  [[menu.main]]
+#  [[menu.main]]
   #  identifier = "/page/contact"
   #  name       = "Contact"
   #  url        = "/page/contact"
