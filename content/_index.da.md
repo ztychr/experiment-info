@@ -1,4 +1,4 @@
-### Hvad er den her side?
+### Velkommen!
 Jeg hedder Johannes og jeg er i gang med at skrive mit speciale på DTU. Jeg skriver om cybersecurity awareness i det offentlige rum. I den forbindelse laver jeg en række eksperimenter. Eksperimenterne indebærer at jeg placerer USB stik og QR-koder på offentlige såvel som private fællesområder, for at indsamle data om, hvorvidt USB stikkene indsamles og indsættes i computere samt om domænerne som QR-koderne linker til besøges.
 
 ### Er det farligt?

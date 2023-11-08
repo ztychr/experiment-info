@@ -1,11 +1,11 @@
 #baseurl      = "localhost" #"thesis.nordskov.net" #"usb-honeypot.compute.dtu.dk"
-title        = "Thesis Information Page"
+title        = "Thesis Page"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
-[author]
-  name = "Johannes Nordskov Pedersen"
+#[author]
+#  name = "Johannes Nordskov Pedersen"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -22,21 +22,22 @@ paginate     = 10
   enableThemeToggle = true
 
 [languages]
+
   [languages.en]
-    title = "Thesis Information Page"
+    title = "Thesis Info"
     weight = 1
 
     [languages.en.params.logo]
-      logoText = "Thesis Information Page"
+      logoText = "Thesis Info"
       logoHomeLink = "/"
 
   [languages.da]
-    title = "Informationsside om Speciale"
+    title = "Speciale Info"
     weight = 1
     
     [languages.da.params.logo]
-      logoText = "Informationsside om Speciale"
-      logoHomeLink = "/"
+      logoText = "Speciale Info"
+      logoHomeLink = "/da/"
 
   
   [params.footer]

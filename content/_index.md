@@ -1,4 +1,4 @@
-### What is this page?
+### Welcome!
 My name is Johannes and I am currently writing my thesis on DTU (Technical University of Denmark). I am writing about cyber security awareness in the public domain. In combination with my thesis, I am conducting a series of experiments. The experiments consist of placing flash drives and QR-codes in public- as well as private common areas, to collect data on, whether the flash drives are collected and plugged into PC's as well as if the the domains the QR-codes are linking to, are visited.
 
 ### Is it dangerous?
@@ -10,5 +10,5 @@ I am not collecting any personal data throughout these experiments. I am strictl
 ### What should I do now?
 You shall not do anything further. I hope that you will keep your knowledge about this experiment to yourself a little longer (2 weeks). It can have consequenses for the research data if the experiments are revaeled prematurely. Thank you for your understanding. If you are in possession of a collected flash drive, please return it to the IT-department.
 
-### Kontakt
+### Contact
 If you have questions regarding the experiments, you are welcome to contact me at s213578@dtu.dk
