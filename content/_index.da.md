@@ -1,5 +1,5 @@
 ### Velkommen!
-Jeg hedder Johannes og jeg er i gang med at skrive mit speciale på DTU. Jeg skriver om cybersecurity awareness i det offentlige rum. I den forbindelse laver jeg en række eksperimenter. Eksperimenterne indebærer at jeg placerer USB stik og QR-koder på offentlige såvel som private fællesområder, for at indsamle data om, hvorvidt USB stikkene indsamles og indsættes i computere samt om domænerne som QR-koderne linker til besøges.
+Jeg hedder Johannes og jeg er i gang med at skrive mit speciale på DTU (Danmarks Tekniske Universitet). Jeg skriver om cybersecurity awareness i det offentlige rum. I den forbindelse laver jeg en række eksperimenter. Eksperimenterne indebærer at jeg placerer USB stik og QR-koder på offentlige såvel som private fællesområder, for at indsamle data om, hvorvidt USB stikkene indsamles og indsættes i computere samt om domænerne som QR-koderne linker til besøges.
 
 ### Er det farligt?
 Eksperimenterne jeg udfører er på ingen måde farlige og eksekveringen af disse er aftalt med ledelsen på din arbejdsplads. USB stikkene indeholder simple filer, der underretter mig når de åbnes. Ligeledes linker QR koderne til en harmløs informationsside som denne. USB stikkene og QR koderne indeholder **ikke** ondsindet kode.
