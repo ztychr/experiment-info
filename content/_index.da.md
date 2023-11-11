@@ -13,6 +13,6 @@ Du behøver ikke foretage dig yderligere. Vi håber at du vil holde din viden om
 ### Kontakt
 Hvis du har spørgsmål om eksperimenterne er du velkommen til at kontakte os på:
 
-Johannes Nordskov - s213578@dtu.dk
-Tyge Tiessen - tyti@dtu.dk
-Emmanouil Vasilomanolakis - emmva@dtu.dk
+- Johannes Nordskov - s213578@dtu.dk
+- Tyge Tiessen - tyti@dtu.dk
+- Emmanouil Vasilomanolakis - emmva@dtu.dk
